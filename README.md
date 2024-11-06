@@ -1,2 +1,2 @@
 # js_function
-Here is the code of js function.
+https://shaylasharmin123.github.io/js_function/
